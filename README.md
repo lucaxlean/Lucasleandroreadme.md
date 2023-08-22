@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas 👋
+### Olá! Eu sou o Lucas 👋😁
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav)
